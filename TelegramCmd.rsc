@@ -415,8 +415,8 @@ add dont-require-permissions=no name=tg_config owner=admin policy=\
     \n:local config {\r\
     \n\"Command\"=\"telegram\";\r\
     \n\t\"botAPI\"=\"1087954117:AAEJmiv-2sqTHvFoxX62PSGaC7ISCgtmKAs\";\r\
-    \n\t\"defaultChatID\"=\"602289885\";\r\
-    \n\t\"trusted\"=\"602289885,527168723\";\r\
+    \n\t\"defaultChatID\"=\"xxxxxxxxx\";\r\
+    \n\t\"trusted\"=\"xxxxxxxxx,xxxxxxxxx\";\r\
     \n\t\"storage\"=\"\";\r\
     \n\t\"timeout\"=1;\r\
     \n\t\"refresh_active\"=15;\r\
